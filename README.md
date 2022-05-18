@@ -10,7 +10,7 @@
 --->
 
 - 📫 Mail me at *karlzhu12@gmail.com* plz.
-- 🗺 View my github pages at *[lingkkang.github.io])* :) 
+- 🗺 View my github pages at *[lingkkang.github.io]* :) 
 
 <!---
 LingkKang/LingkKang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
