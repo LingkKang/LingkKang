@@ -1,12 +1,16 @@
 - 👋 Hi, I’m @LingkKang
-- ✏ You can call me Lingknag. 
+- ✏ You can call me Lingkang. 
 - 👀 I’m interested in 
-    - Back-end Develop (Python)
+    - Back-end Develop (Python, Java)
+    - Front-end Design
     - Artificial Intelligence
-- 🌱 I’m currently learning *Dive into Deep Learning*
 
 <!---
+
+- 🌱 I’m currently learning *Dive into Deep Learning*
+
 - 💞️ I’m looking to collaborate on 
+
 --->
 
 - 📫 Mail me at *karlzhu12@gmail.com* plz.
