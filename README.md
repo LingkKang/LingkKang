@@ -13,7 +13,7 @@
 
 --->
 
-- 📫 Mail me at *karlzhu12@gmail.com* plz.
+- 📫 Mail me at *lingkkang@gmail.com* plz.
 - 🗺 View my github pages at [lingkkang.github.io](https://lingkkang.github.io) :) 
 
 <!---
