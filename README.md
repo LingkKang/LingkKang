@@ -32,9 +32,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LingkKang&hide=html,css,javascript&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LingkKang&hide=html,css,javascript&layout=compact&count_private=true">
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LingkKang&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=LingkKang&show_icons=true&count_private=true">
 </div>
