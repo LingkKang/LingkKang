@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LingkKang&hide=html,css,javascript&layout=compact&count_private=true">
+    <img src="https://stats.lingkang.dev/api/top-langs/?username=LingkKang&hide=html,css,javascript&layout=compact&count_private=true" width=480>
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LingkKang&show_icons=true&count_private=true">
+    <img src="https://stats.lingkang.dev/api?username=LingkKang&show_icons=true&count_private=true" width=480>
 </div>
 
 <!---
