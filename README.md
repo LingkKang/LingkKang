@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <img src="https://stats.lingkang.dev/api/top-langs/?username=LingkKang&hide=html,css,javascript&layout=compact&count_private=true" width=480>
+    <img src="https://stats.lingkang.dev/api/top-langs/?username=LingkKang&hide=scss,html,css,javascript&layout=compact&count_private=true" width=480>
 </div>
 
 <div align="center">
